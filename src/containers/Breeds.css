@@ -1,0 +1,22 @@
+* {
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.breeds {
+    background-color: rgb(250, 236, 215);
+    height: 83vh;
+    padding: 60px;
+}
+
+.breeds h1{
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+.breeds p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: justify;
+}

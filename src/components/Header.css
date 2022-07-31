@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 10vh;
+    background-color: rgba(167, 165, 165, 0.664);
+    color: rgb(102, 100, 100);
+    display: flex;
+    align-items: center;
+}
+
+.header-logo  {
+    height: 9vh;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.header h2 {
+    margin-left: 30px
+}
+
+.header nav {
+    margin-left: auto;
+}
+
+.header nav ul {
+    display: flex;
+    align-items: center;
+}
+
+.header nav ul li {
+    padding: 8px 10px;
+    margin: 20px;
+    border: solid 2px rgb(102, 100, 100);
+    list-style: none;
+}
+
+.header nav ul li a {
+
+}
